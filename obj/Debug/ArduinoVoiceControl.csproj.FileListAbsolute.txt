@@ -1,0 +1,9 @@
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\bin\Debug\ArduinoVoiceControl.exe.config
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\bin\Debug\ArduinoVoiceControl.exe
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\bin\Debug\ArduinoVoiceControl.pdb
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.csprojResolveAssemblyReference.cache
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.Form1.resources
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.Properties.Resources.resources
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.csproj.GenerateResource.Cache
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.exe
+c:\users\rsumalde\documents\visual studio 2015\Projects\ArduinoVoiceControl\ArduinoVoiceControl\obj\Debug\ArduinoVoiceControl.pdb
